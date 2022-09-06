@@ -1,18 +1,16 @@
 # Nicolai Potyomkin #
 
-## Junior Frontend Develover ##
-
 ---
 
 ## Contact information: ##
 
-**Discord** Mikalai(@NickPatsiomkin)
+**Discord:** Mikalai(@NickPatsiomkin)
 
-**Phone** +375 29 3838496
+**Phone:** +375 29 3838496
 
-**Email** poti2001@yandex.ru
+**Email:** poti2001@yandex.ru
 
-**Telegram** @BILLY_HERRlNGT0N
+**Telegram:** @BILLY_HERRlNGT0N
 
 ---
 
@@ -27,11 +25,30 @@ I'm sure that my knowledges and personal skills will be enough to get this job.
 
 ---
 
-## Skills #
+## Skills ##
 
 - HTML
 - CSS 
 - JavaScript Basics
+- Git
+- Microsoft Ofiice
 
+## Code example ##
 
+<pre>
+<code>
+function multiply (a,b) {
+    return a*b
+}
+</code>
+</pre>
 
+## Work experience ##
+
+Nothing yet((
+
+## Language ##
+
+Russian - Native
+Belarussian - 
+English - B2 Upper Intermediate
