@@ -50,5 +50,7 @@ Nothing yet((
 ## Language ##
 
 Russian - Native
-Belarussian - 
+
+Belarussian - Native
+
 English - B2 Upper Intermediate
